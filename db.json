@@ -1,11 +1,18 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "Parameter": "CFS",
+    "Information": "5000050505"
+  },
+	  {
+    "Parameter": "Customer Name",
+    "Information": "TEST"
+  },
+		  {
+    "Parameter": "Service",
+    "Information": "IP VPN"
+  },
+	  {
+    "Parameter": "Customer Information",
+    "Information": "212112"
   }
-}
+ ]
